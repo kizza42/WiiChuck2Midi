@@ -8,6 +8,7 @@
 I wanted a way for an assistent to comfortably trigger Qlab/Theatremix software during our shows. We used to use a Streamdeck for this task but found the buttons had a tendancy to stick or be mispressed.
 
 Here is a demo of it in action:
+
 [![DemoVid](https://img.youtube.com/vi/ySVVfcEn-9I/0.jpg)](https://www.youtube.com/watch?v=ySVVfcEn-9I)
 
 This solution is achieved with the following hardware:
