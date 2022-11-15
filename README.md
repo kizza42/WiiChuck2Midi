@@ -1,4 +1,8 @@
 # WiiChuck2Midi
+![WiiChuck2Midi](/images/Wiichuck.jpg)
+
+
+
  Nintendo Wii Nunchuck to USB Midi for Theatre Purposes.
  
 I wanted a way for an assistent to comfortably trigger Qlab/Theatremix software during our shows. We used to use a Streamdeck for this task but found the buttons had a tendancy to stick or be mispressed.
