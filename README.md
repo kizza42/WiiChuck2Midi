@@ -11,6 +11,10 @@ I wanted a way for an assistent to comfortably trigger Qlab/Theatremix software 
 (https://img.youtube.com/vi/ySVVfcEn-9I/maxresdefault.jpg)]
 (https://www.youtube.com/watch?v=ySVVfcEn-9I)
 
+[![Final video of fixing issues in your code in VS Code]
+(https://img.youtube.com/vi/JLMbpiywVxQ/maxresdefault.jpg)]
+(https://www.youtube.com/watch?v=JLMbpiywVxQ)
+
 This solution is achieved with the following hardware:
 
 1. Nintendo Wii Nunchuck (Everybody has one of these kicking around somewhere!)
