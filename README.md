@@ -24,4 +24,4 @@ The Qt Py Rp2040 is running a simple Circuit Python script which you can find ![
 This tells the Qt Py to emulate a USB Midi device which is then set up with Qlab (or SCS on Windows) to send OSC commands to Theatremix.
 
 I have coded the Z & C Button as my primary Go and Back buttons for Theatremix, they will thusly turn the status LED Green and Red/White when triggered.
-The joysticks 4 cardinal extremities (Up/Down/Left/Right) provide 4 more midi signals to do with what you will in Qlab, in my example video 
+The joysticks 4 cardinal extremities (Up/Down/Left/Right) provide 4 more midi signals to do with what you will in Qlab, in my example video I have them navigating around the Theatremix interface.
