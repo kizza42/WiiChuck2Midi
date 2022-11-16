@@ -20,7 +20,7 @@ This solution is achieved with the following hardware:
 5. Self 3d Printed case (See STL Folder)
 
 Software:
-The Qt Py Rp2040 is running a simple Circuit Python script which you can find ![here](/code.py).
+The Qt Py Rp2040 is running a simple Circuit Python script which you can find [here](/code.py).
 This tells the Qt Py to emulate a USB Midi device which is then set up with Qlab (or SCS on Windows) to send OSC commands to Theatremix.
 
 I have coded the Z & C Button as my primary Go and Back buttons for Theatremix, they will thusly turn the status LED Green and Red/White when triggered.
