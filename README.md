@@ -13,7 +13,7 @@ Here is a demo of it in action:
 
 This solution is achieved with the following hardware:
 
-1. Nintendo Wii Nunchuck (Everybody has one of these kicking around somewhere!)
+1. Nintendo Wii Nunchuck (Everybody has one of these kicking around somewhere! They can be found for a few $$ on Aliexpress)
 2. Adafruit QT Py RP2040 https://www.adafruit.com/product/4900
 3. Adafruit Wii Nunchuck Breakout Adapter - Qwiic / STEMMA QT https://www.adafruit.com/product/4836
 4. STEMMA QT / Qwiic JST SH 4-Pin Cable - 50mm Long https://www.adafruit.com/product/4399
